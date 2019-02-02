@@ -1,0 +1,21 @@
+{
+  "name": "study-tracker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frazzot/study-tracker.git"
+  },
+  "author": "Ida Franzén Karlsson",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Frazzot/study-tracker/issues"
+  },
+  "homepage": "https://github.com/Frazzot/study-tracker#readme"
+}
